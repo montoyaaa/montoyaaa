@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on <a href="https://www.rcxit.com.br">RCX IT</a>
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web and mobile development
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ricardo-montoya-3653a3174">LinkedIn</a>, <a href="https://www.ricardomontoya.dev">Website</a>
 
 <div align="center">
