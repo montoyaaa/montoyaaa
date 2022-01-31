@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on <a href="https://www.rcxit.com.br">RCX IT</a>/<a href="https://www.orpen.com.br">Orpen</a>
+- 🔭 I’m currently working at <a href="https://www.orpen.com.br">Orpen</a>
 - 🌱 I’m currently learning web and mobile development
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ricardo-montoya-3653a3174">LinkedIn</a>, <a href="https://www.ricardomontoya.dev">Website</a>
 
